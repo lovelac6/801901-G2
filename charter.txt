@@ -1,8 +1,8 @@
 GroupName.txt
 
 
-Availability for meeting expectations
-Response time to communication expectations
+Availability for meeting expectations: Meet at least twice per week, meet once per week during lab period, once per week Thursday night (7pm). 
+Response time to communication expectations 
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
