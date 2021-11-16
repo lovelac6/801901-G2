@@ -1,4 +1,4 @@
-<group name>
+GroupName.txt
 
 
 Availability for meeting expectations
